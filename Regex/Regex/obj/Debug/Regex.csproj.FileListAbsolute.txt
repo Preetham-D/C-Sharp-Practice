@@ -1,0 +1,7 @@
+E:\workspace\c#\Practice\Regex\Regex\bin\Debug\Regex.exe.config
+E:\workspace\c#\Practice\Regex\Regex\bin\Debug\Regex.exe
+E:\workspace\c#\Practice\Regex\Regex\bin\Debug\Regex.pdb
+E:\workspace\c#\Practice\Regex\Regex\obj\Debug\Regex.csproj.CoreCompileInputs.cache
+E:\workspace\c#\Practice\Regex\Regex\obj\Debug\Regex.exe
+E:\workspace\c#\Practice\Regex\Regex\obj\Debug\Regex.pdb
+E:\workspace\c#\Practice\Regex\Regex\obj\Debug\Regex.csprojAssemblyReference.cache
